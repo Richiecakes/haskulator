@@ -1,24 +1,33 @@
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE TemplateHaskell #-}
+
 module Main where
 
 import           Control.Applicative
+import           Control.Lens
+import           Snap
 import           Snap.Core
+import           Snap.Snaplet.Heist
 import           Snap.Util.FileServe
 import           Snap.Http.Server
 
+data App = App
+  { _heist     :: Snaplet (Heist App)
+  }
+
+makeLenses ''App
+
+instance HasHeist App where heistLens = subSnaplet heist
+
+indexHandler :: Handler App App ()
+indexHandler = writeText "Hello, world!"
+
+appInit :: SnapletInit App App
+appInit = makeSnaplet "haskulator" description Nothing $ do
+  hs <- nestSnaplet "" heist $ heistInit "templates"
+  addRoutes [("", indexHandler)]
+  return $ App hs
+  where description = "The haskell calculator"
+
 main :: IO ()
-main = quickHttpServe site
-
-site :: Snap ()
-site =
-    ifTop (writeBS "hello world") <|>
-    route [ ("foo", writeBS "bar")
-          , ("echo/:echoparam", echoHandler)
-          ] <|>
-    dir "static" (serveDirectory ".")
-
-echoHandler :: Snap ()
-echoHandler = do
-    param <- getParam "echoparam"
-    maybe (writeBS "must specify echo/param in URL")
-          writeBS param
+main = serveSnaplet defaultConfig appInit
