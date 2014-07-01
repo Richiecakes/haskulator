@@ -20,12 +20,14 @@ makeLenses ''App
 instance HasHeist App where heistLens = subSnaplet heist
 
 indexHandler :: Handler App App ()
-indexHandler = writeText "Hello, world!"
+indexHandler = render "base"
 
 appInit :: SnapletInit App App
 appInit = makeSnaplet "haskulator" description Nothing $ do
   hs <- nestSnaplet "" heist $ heistInit "templates"
-  addRoutes [("", indexHandler)]
+  addRoutes [ ("static",    serveDirectory "static")
+            , ("/",          indexHandler)
+            ]
   return $ App hs
   where description = "The haskell calculator"
 
