@@ -35,7 +35,7 @@ alt :: Parse a b -> Parse a b -> Parse a b
 alt p1 p2 inp = p1 inp ++ p2 inp
 exam1 = (bracket `alt` dig) "234" 
 
-(>*>) :: Parse a b -> Parse a c -> Parse a (b,c)	
+(>*>) :: Parse a b -> Parse a c -> Parse a (b,c)
 (>*>) p1 p2 inp 
   = [((y,z),rem2) | (y,rem1) <- p1 inp , (z,rem2)  <- p2 rem1 ]
 

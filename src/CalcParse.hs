@@ -8,6 +8,7 @@ import CalcParseLib
 parseExpr :: Parse Char Expr
 parseExpr = litParse `alt` opExpParse
 
+opExpParse :: Parse Char Expr
 opExpParse 
   = (token '(' >*>
      parseExpr >*>
@@ -29,7 +30,10 @@ charToOp ch
       '*' -> Mul
       '/' -> Div
       '%' -> Mod
+      _   -> error "Operator does not exist"
 
+
+litParse :: Parse Char Expr
 litParse 
   = ((optional (token '~')) >*>
      (neList (spot isDigit)))
@@ -69,9 +73,9 @@ topLevel p defaultVal inp
 
 parseCommand :: Parse Char Command
 parseCommand 
-  = ((parseExpr `build` Eval)
-     `alt`
-     endOfInput Null
+  = (parseExpr `build` Eval)
+    `alt`
+    endOfInput Null
 
 calcLine :: String -> Command
 calcLine = topLevel parseCommand Null
