@@ -6,13 +6,7 @@ import CalcTypes
 import CalcParseLib
  
 parseExpr :: Parse Char Expr
-parseExpr = (litParse `alt` varParse) `alt` opExpParse
-
-varParse :: Parse Char Expr
-varParse = spot isVar `build` Var
-
-isVar :: Char -> Bool
-isVar x = ('a' <= x && x <= 'z')
+parseExpr = litParse `alt` opExpParse
 
 opExpParse 
   = (token '(' >*>
@@ -76,14 +70,8 @@ topLevel p defaultVal inp
 parseCommand :: Parse Char Command
 parseCommand 
   = ((parseExpr `build` Eval)
-    `alt`
-    (((spot isVar) >*> 
-     (token ':') >*> 
-     parseExpr) `build` makeComm))
      `alt`
      endOfInput Null
-
-makeComm (v,(_,e)) = Assign v e
 
 calcLine :: String -> Command
 calcLine = topLevel parseCommand Null
