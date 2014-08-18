@@ -1,12 +1,15 @@
-.signup-panel {
+.input-panel {
   border-radius: 5px;
   border: 1px solid #ccc;
   padding: 15px;
   margin-top: 30px;
 }
-.signup-panel form input, .signup-panel form span {
+.input-panel form input, .input-panel form span {
   height: 50px;
 }
-.signup-panel .button {
+.input-panel .button {
   margin-left: 35%;
+}
+textarea {
+    resize: none;
 }

@@ -1,0 +1,430 @@
+[01/Jul/2014:00:09:24 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:09:24 +0100] Error on startup: 
+bind: resource busy (Address already in use)
+[01/Jul/2014:00:09:32 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:10:23 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:10:23 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:26:10 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:27:19 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:27:19 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:27:20 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:27:42 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:27:42 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:27:42 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:27:47 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:27:47 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:27:57 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:28:08 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:28:08 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:28:09 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:28:39 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:28:39 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:28:40 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:28:45 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:28:45 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:28:57 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:29:40 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:29:40 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:29:42 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:29:52 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:29:52 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:29:59 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:31:16 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:31:16 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:31:18 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:31:25 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:31:25 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:31:31 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:31:41 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:31:41 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:35:31 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:35:39 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:35:39 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:35:49 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:37:53 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:37:53 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:38:03 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:41:49 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:41:49 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:42:31 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:43:03 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:43:03 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:43:12 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:44:34 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:44:34 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:44:43 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:46:43 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:46:43 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:46:54 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:47:00 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:47:00 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:49:13 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:00:49:25 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:00:49:25 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:00:50:30 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:01:11:59 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:01:11:59 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:01:12:06 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:01:12:59 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:01:12:59 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:01:13:05 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:01:13:18 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:01:13:18 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:27:18 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:28:52 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:28:52 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:28:54 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:30:14 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:30:14 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:30:15 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:31:32 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:31:32 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:31:33 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:34:53 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:34:53 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:34:54 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:35:19 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:35:19 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:38:12 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:40:58 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:40:58 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:40:59 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:41:28 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:41:28 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:41:29 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:53:38 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:53:38 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:53:39 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:54:28 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:54:28 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:54:28 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:55:25 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:55:25 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:55:26 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:55:34 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:55:34 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:55:48 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:56:41 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:56:41 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:56:41 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:58:14 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:58:14 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:58:14 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:08:59:20 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:08:59:20 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:08:59:21 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:00:01 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:00:01 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:00:02 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:00:44 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:00:44 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:00:46 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:02:27 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:02:27 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:02:28 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:03:32 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:03:32 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:03:33 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:07:36 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:07:36 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:07:36 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:08:47 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:08:47 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:08:47 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:09:01 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:09:01 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:09:01 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:12:52 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:12:52 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:12:53 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:13:40 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:13:40 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:13:40 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:15:05 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:15:05 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:15:05 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:15:47 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:15:47 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:15:48 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:18:54 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:18:54 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:18:54 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:26:20 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:26:20 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:26:20 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:26:44 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:26:44 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:26:47 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:27:20 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:27:20 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:27:20 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:27:40 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:27:40 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:27:41 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:28:05 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:28:05 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:28:05 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:29:03 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:29:03 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:29:03 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:29:18 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:29:18 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:29:19 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:29:34 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:29:34 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:29:35 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:30:00 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:30:00 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:30:01 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:30:37 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:30:37 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:30:37 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:33:29 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:33:29 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:33:30 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:33:54 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:33:54 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:33:55 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:36:24 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:36:24 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:36:25 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:38:04 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:38:04 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:38:05 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:39:23 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:39:23 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:39:24 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:40:06 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:40:06 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:40:07 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:41:42 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:41:42 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:41:42 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:42:47 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:42:47 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:42:47 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:44:03 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:44:03 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:44:03 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:44:36 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:44:36 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:44:37 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:45:56 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:45:56 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:45:56 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:46:29 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:46:29 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:46:30 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:46:45 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:46:45 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:46:45 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:47:05 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:47:05 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:47:05 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:09:47:41 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:09:47:41 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:09:47:41 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:10:28:46 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:10:28:46 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:10:33:44 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:10:44:31 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:10:44:31 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:10:45:03 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:10:45:53 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:10:45:53 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:10:45:54 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:10:45:57 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:10:45:57 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:10:46:06 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:10:47:42 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:10:47:42 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:10:47:52 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:18:43:36 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:18:44:19 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:18:44:19 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:18:45:28 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:18:46:07 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:18:46:07 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:18:47:18 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:18:47:19 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:18:47:19 +0100] Server.httpServe: BACKEND STOPPED
+[01/Jul/2014:18:47:42 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[01/Jul/2014:18:47:50 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41849
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41849\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:47:50 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41848
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41848\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:47:50 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41847
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41847\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:47:50 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41846
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41846\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:47:50 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41845
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41845\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:47:50 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41851
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41851\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:48:09 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41852
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41852\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:48:09 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41857
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41857\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:48:13 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41858
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41858\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:48:15 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41859
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41859\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:48:15 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41860
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41860\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:48:30 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41862
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41862\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:48:30 +0100] httpSession caught an exception during sending response phase:
+During processing of request from 127.0.0.1:41863
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41863\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36\n Connection: keep-alive\n Host: localhost:8000\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Accept-Encoding: gzip,deflate,sdch\n Accept-Language: en-GB,en-US;q=0.8,en;q=0.6\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      \n      ========================================\n    pathinfo: test\n    contextpath: /\n    URI: /test\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Maybe.fromJust: Nothing
+[01/Jul/2014:18:48:34 +0100] Server.httpServe: SHUTDOWN
+[01/Jul/2014:18:48:34 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:19:54:00 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:19:54:36 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:19:54:36 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:19:54:45 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:20:38:55 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:20:38:55 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:20:38:56 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:20:38:57 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:20:38:57 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:20:39:07 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:20:43:50 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:20:43:50 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:20:44:00 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:20:44:51 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:20:44:51 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:20:45:04 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:20:45:54 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:20:45:54 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:20:45:55 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:20:46:22 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:20:46:22 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:33:34 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:35:09 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:35:09 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:35:09 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:35:33 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:35:33 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:35:34 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:35:43 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:35:43 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:35:44 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:36:59 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:36:59 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:36:59 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:37:11 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:37:11 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:37:12 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:38:06 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:38:06 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:38:07 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:40:18 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:40:18 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:40:18 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:40:45 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:40:45 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:40:46 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:41:03 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:41:03 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:41:04 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:41:31 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:41:31 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:41:31 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:42:07 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:42:07 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:42:08 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:42:22 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:42:22 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:42:22 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:45:09 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:45:09 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:45:10 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:45:23 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:45:23 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:45:24 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:21:46:31 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:21:46:31 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:21:46:31 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:22:01:56 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:22:01:56 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:22:01:56 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:22:02:16 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:22:02:16 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:22:02:17 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:22:53:23 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:22:53:23 +0100] Server.httpServe: BACKEND STOPPED
+[04/Jul/2014:22:53:23 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[04/Jul/2014:23:33:40 +0100] Server.httpServe: SHUTDOWN
+[04/Jul/2014:23:33:40 +0100] Server.httpServe: BACKEND STOPPED
+[17/Aug/2014:23:18:26 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[17/Aug/2014:23:31:30 +0100] Server.httpServe: SHUTDOWN
+[17/Aug/2014:23:31:30 +0100] Server.httpServe: BACKEND STOPPED
+[17/Aug/2014:23:32:01 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[18/Aug/2014:00:51:35 +0100] Server.httpServe: SHUTDOWN
+[18/Aug/2014:00:51:35 +0100] Server.httpServe: BACKEND STOPPED
+[18/Aug/2014:01:19:09 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[18/Aug/2014:01:19:41 +0100] Server.httpServe: SHUTDOWN
+[18/Aug/2014:01:19:41 +0100] Server.httpServe: BACKEND STOPPED
+[18/Aug/2014:01:20:07 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[18/Aug/2014:01:21:06 +0100] Server.httpServe: SHUTDOWN
+[18/Aug/2014:01:21:06 +0100] Server.httpServe: BACKEND STOPPED
+[18/Aug/2014:01:21:16 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[18/Aug/2014:01:23:42 +0100] Server.httpServe: SHUTDOWN
+[18/Aug/2014:01:23:42 +0100] Server.httpServe: BACKEND STOPPED
+[18/Aug/2014:01:23:43 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[18/Aug/2014:01:26:36 +0100] Server.httpServe: SHUTDOWN
+[18/Aug/2014:01:26:36 +0100] Server.httpServe: BACKEND STOPPED
+[18/Aug/2014:01:26:36 +0100] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[18/Aug/2014:01:27:07 +0100] Server.httpServe: SHUTDOWN
+[18/Aug/2014:01:27:07 +0100] Server.httpServe: BACKEND STOPPED

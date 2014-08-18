@@ -19,14 +19,11 @@
     </header>
 
     <div class="row">
-      <div class="signup-panel">
-        <textarea>
-          
-        </textarea>
-        <form action="input" method="post">
-          <div class="row collapse">
+      <div class="input-panel">
+        <form action="/" method="post">
+          <div class="row">
             <div class="small-12  columns">
-              <input type="text" placeholder="input" name="input">
+              <input main-textbox type="text" placeholder="Enter fully bracketed expression" name="input">
             </div>
           </div>
         </form>
